@@ -1,4 +1,4 @@
-![Profile Image](https://drive.google.com/uc?export=download&id=1NbYyTbEcE3n_G84IVP-rG-Su1XhpAqUF)
+![Profile Image](https://drive.google.com/uc?export=download&id=1ypitccGc-2UGHvNqtXfvNQtjiCImWqRI)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathandavid&label=Profile%20views&color=0e75b6&style=flat" alt="jonathandavid" /> </p>
 
