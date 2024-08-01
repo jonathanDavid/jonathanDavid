@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathandavid" alt="jonathandavid" /></a> </p>
 
-- 🔭 I’m currently working on [Omnix](https://omnixcorp.com/)
+- 🔭 I’m currently working on [UDT](https://udtonline.com/)
 
 - 🌱 I’m currently learning **Python**
 
