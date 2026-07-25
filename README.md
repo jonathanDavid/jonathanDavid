@@ -5,7 +5,7 @@
 
 <!-- ===== Animated tagline (committed SVG — fade rotator, never clips) ===== -->
 <p align="center">
-  <img src="./assets/tagline.svg" alt="Senior Full-Stack & Cloud Engineer · React · Angular · Node · Go · AWS · Azure · Kubernetes · Terraform" width="680"/>
+  <img src="./assets/typewriter.svg" alt="Senior Full-Stack & Cloud Engineer · React · Angular · Node · Go · AWS · Azure · Kubernetes · Terraform" width="700"/>
 </p>
 
 <!-- ===== Social badges (shields.io — reliable) ===== -->

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 56" font-family="'Fira Code', 'Cascadia Code', Consolas, monospace" font-size="22" font-weight="600">
+  <!-- Real typewriter: each line reveals left-to-right via a clip that
+       animates to the FULL width (800) — wider than any line, so the reveal
+       types the whole line and can never cut. The blinking caret is the last
+       glyph of the text itself, so it always sits at the true end regardless
+       of how GitHub renders the font (no pixel guessing). -->
+  <defs>
+    <clipPath id="t0"><rect y="0" height="56" x="0" width="0"><animate attributeName="width" values="0;0;800;800" keyTimes="0;0;0.11;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="t1"><rect y="0" height="56" x="0" width="0"><animate attributeName="width" values="0;0;800;800" keyTimes="0;0.333;0.443;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="t2"><rect y="0" height="56" x="0" width="0"><animate attributeName="width" values="0;0;800;800" keyTimes="0;0.666;0.776;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#t0)">
+    <g><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.31;0.333;1" dur="12s" repeatCount="indefinite"/>
+      <text x="10" y="37" fill="#F59E0B"><tspan fill="#64748B">&gt; </tspan>Senior Full-Stack &amp; Cloud Engineer<tspan fill="#F59E0B"> ▌<animate attributeName="fill-opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></tspan></text>
+    </g>
+  </g>
+  <g clip-path="url(#t1)">
+    <g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.343;0.643;0.666;1" dur="12s" repeatCount="indefinite"/>
+      <text x="10" y="37" fill="#A78BFA"><tspan fill="#64748B">&gt; </tspan>React · Angular · Node · Go · Python<tspan fill="#A78BFA"> ▌<animate attributeName="fill-opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></tspan></text>
+    </g>
+  </g>
+  <g clip-path="url(#t2)">
+    <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.666;0.676;1" dur="12s" repeatCount="indefinite"/>
+      <text x="10" y="37" fill="#38BDF8"><tspan fill="#64748B">&gt; </tspan>AWS · Azure · Kubernetes · Terraform<tspan fill="#38BDF8"> ▌<animate attributeName="fill-opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></tspan></text>
+    </g>
+  </g>
+</svg>
