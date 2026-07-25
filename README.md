@@ -5,7 +5,7 @@
 
 <!-- ===== Animated typing tagline (committed SVG) ===== -->
 <p align="center">
-  <img src="./assets/typing.svg" alt="Senior Full-Stack & Cloud Engineer" width="640"/>
+  <img src="./assets/typing.svg" alt="Senior Full-Stack & Cloud Engineer" width="700"/>
 </p>
 
 <!-- ===== Social badges (shields.io — reliable) ===== -->
@@ -89,14 +89,16 @@ apps, ML services on genetic algorithms, and 20+ production AWS Lambdas.
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonathanDavid&show_icons=true&hide_border=true&theme=tokyonight&icon_color=F59E0B&title_color=A78BFA" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanDavid&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA" alt="top langs"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/jonathanDavid?style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=0F172A"/>
+  <img alt="Experience" src="https://img.shields.io/badge/experience-7%2B%20years-F59E0B?style=for-the-badge&labelColor=0F172A"/>
+  <img alt="Focus" src="https://img.shields.io/badge/focus-cloud%20%C2%B7%20full--stack-38BDF8?style=for-the-badge&labelColor=0F172A"/>
+  <img alt="Open to work" src="https://img.shields.io/badge/open%20to-opportunities-22C55E?style=for-the-badge&labelColor=0F172A"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanDavid&hide_border=true&theme=tokyonight&stroke=A78BFA&fire=F59E0B&ring=F59E0B" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanDavid&hide_border=true&theme=tokyonight&stroke=A78BFA&fire=F59E0B&ring=F59E0B" alt="contribution streak"/>
 </p>
 
 <p align="center"><i>🛠️ Landing soon: a Go/WebSocket live dashboard, a Neo4j route-graph app, and an AI road-trip planner agent.</i></p>
