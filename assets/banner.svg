@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#4C1D95"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+
+  <!-- decorative translucent circles -->
+  <circle cx="1060" cy="60" r="120" fill="#ffffff" fill-opacity="0.05"/>
+  <circle cx="1140" cy="220" r="70" fill="#ffffff" fill-opacity="0.06"/>
+  <circle cx="120" cy="240" r="90" fill="#ffffff" fill-opacity="0.04"/>
+
+  <!-- name -->
+  <text x="70" y="120" fill="#ffffff" font-size="64" font-weight="800" letter-spacing="-1">Jonathan Ilias</text>
+
+  <!-- animated accent underline -->
+  <rect x="72" y="140" height="7" rx="3.5" fill="url(#accent)">
+    <animate attributeName="width" values="0;300;300" keyTimes="0;0.6;1" dur="2.2s" fill="freeze"/>
+  </rect>
+
+  <!-- role -->
+  <text x="72" y="188" fill="#E9D5FF" font-size="24" font-weight="600" letter-spacing="3">SENIOR FULL STACK &amp; CLOUD ENGINEER</text>
+
+  <!-- tagline -->
+  <text x="72" y="224" fill="#ffffff" fill-opacity="0.75" font-size="18" letter-spacing="1">React · Angular · Node · Go · Python · AWS · Azure · Kubernetes · Terraform</text>
+
+  <!-- location chip -->
+  <g opacity="0.9">
+    <rect x="72" y="242" width="196" height="26" rx="13" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="88" y="260" fill="#ffffff" font-size="14" letter-spacing="1">📍 Barranquilla, Colombia</text>
+  </g>
+</svg>
