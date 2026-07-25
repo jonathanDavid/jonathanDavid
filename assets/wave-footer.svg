@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- back wave -->
+  <g opacity="0.35" fill="#7C3AED">
+    <path d="M -400,60 q 100,-34 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 V130 H -400 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-400,0" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <!-- mid wave -->
+  <g opacity="0.5" fill="#F59E0B">
+    <path d="M -400,74 q 100,-30 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 V130 H -400 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-400,0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <!-- front wave (solid gradient) -->
+  <g fill="url(#fg)">
+    <path d="M -400,90 q 100,-24 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 V130 H -400 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-400,0" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

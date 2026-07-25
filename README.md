@@ -1,6 +1,11 @@
-<!-- ===== Banner (committed SVG — always renders) ===== -->
+<!-- ===== Animated banner (committed SVG — always renders) ===== -->
 <p align="center">
   <img src="./assets/banner.svg" alt="Jonathan Ilias — Senior Full Stack & Cloud Engineer" width="100%"/>
+</p>
+
+<!-- ===== Animated typing tagline (committed SVG) ===== -->
+<p align="center">
+  <img src="./assets/typing.svg" alt="Senior Full-Stack & Cloud Engineer" width="640"/>
 </p>
 
 <!-- ===== Social badges (shields.io — reliable) ===== -->
@@ -95,3 +100,8 @@ apps, ML services on genetic algorithms, and 20+ production AWS Lambdas.
 </p>
 
 <p align="center"><i>🛠️ Landing soon: a Go/WebSocket live dashboard, a Neo4j route-graph app, and an AI road-trip planner agent.</i></p>
+
+<!-- ===== Animated wave footer (committed SVG) ===== -->
+<p align="center">
+  <img src="./assets/wave-footer.svg" alt="" width="100%"/>
+</p>

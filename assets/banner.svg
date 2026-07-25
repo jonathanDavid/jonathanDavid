@@ -9,32 +9,50 @@
       <stop offset="0" stop-color="#F59E0B"/>
       <stop offset="1" stop-color="#A78BFA"/>
     </linearGradient>
+    <clipPath id="round"><rect width="1200" height="280" rx="18"/></clipPath>
   </defs>
 
-  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
 
-  <!-- decorative translucent circles -->
-  <circle cx="1060" cy="60" r="120" fill="#ffffff" fill-opacity="0.05"/>
-  <circle cx="1140" cy="220" r="70" fill="#ffffff" fill-opacity="0.06"/>
-  <circle cx="120" cy="240" r="90" fill="#ffffff" fill-opacity="0.04"/>
+    <!-- floating translucent circles -->
+    <circle cx="1060" cy="60" r="120" fill="#ffffff" fill-opacity="0.05">
+      <animate attributeName="cy" values="60;80;60" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1140" cy="220" r="70" fill="#ffffff" fill-opacity="0.06">
+      <animate attributeName="cy" values="220;200;220" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="250" r="90" fill="#ffffff" fill-opacity="0.04">
+      <animate attributeName="cy" values="250;235;250" dur="7s" repeatCount="indefinite"/>
+    </circle>
 
-  <!-- name -->
-  <text x="70" y="120" fill="#ffffff" font-size="64" font-weight="800" letter-spacing="-1">Jonathan Ilias</text>
+    <!-- animated waves along the bottom -->
+    <g opacity="0.16" fill="#A78BFA">
+      <path d="M -400,238 q 100,-28 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 V280 H -400 Z">
+        <animateTransform attributeName="transform" type="translate" values="0,0;-400,0" dur="9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g opacity="0.22" fill="#F59E0B">
+      <path d="M -400,250 q 100,-26 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 t 200,0 V280 H -400 Z">
+        <animateTransform attributeName="transform" type="translate" values="0,0;-400,0" dur="6s" repeatCount="indefinite"/>
+      </path>
+    </g>
 
-  <!-- animated accent underline -->
-  <rect x="72" y="140" height="7" rx="3.5" fill="url(#accent)">
-    <animate attributeName="width" values="0;300;300" keyTimes="0;0.6;1" dur="2.2s" fill="freeze"/>
-  </rect>
+    <!-- name -->
+    <text x="70" y="120" fill="#ffffff" font-size="64" font-weight="800" letter-spacing="-1">Jonathan Ilias</text>
 
-  <!-- role -->
-  <text x="72" y="188" fill="#E9D5FF" font-size="24" font-weight="600" letter-spacing="3">SENIOR FULL STACK &amp; CLOUD ENGINEER</text>
+    <!-- animated accent underline -->
+    <rect x="72" y="140" height="7" rx="3.5" fill="url(#accent)">
+      <animate attributeName="width" values="0;300;300" keyTimes="0;0.6;1" dur="2.2s" fill="freeze"/>
+    </rect>
 
-  <!-- tagline -->
-  <text x="72" y="224" fill="#ffffff" fill-opacity="0.75" font-size="18" letter-spacing="1">React · Angular · Node · Go · Python · AWS · Azure · Kubernetes · Terraform</text>
+    <!-- role -->
+    <text x="72" y="188" fill="#E9D5FF" font-size="24" font-weight="600" letter-spacing="3">SENIOR FULL STACK &amp; CLOUD ENGINEER</text>
 
-  <!-- location chip -->
-  <g opacity="0.9">
-    <rect x="72" y="242" width="196" height="26" rx="13" fill="#ffffff" fill-opacity="0.14"/>
-    <text x="88" y="260" fill="#ffffff" font-size="14" letter-spacing="1">📍 Barranquilla, Colombia</text>
+    <!-- location chip -->
+    <g opacity="0.9">
+      <rect x="72" y="210" width="200" height="26" rx="13" fill="#ffffff" fill-opacity="0.14"/>
+      <text x="88" y="228" fill="#ffffff" font-size="14" letter-spacing="1">📍 Barranquilla, Colombia</text>
+    </g>
   </g>
 </svg>
