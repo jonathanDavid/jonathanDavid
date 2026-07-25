@@ -21,9 +21,8 @@
 ### 👨‍💻 About me
 
 I build scalable SaaS and cloud-native platforms **end to end** — from a drag-and-drop React UI to a
-Go/Node API to the Terraform that ships it. Currently a Full Stack Developer at **Stefanini**;
-previously **UDT/Havrion**, **Omnix IA**, and **Xpectrum**, where I shipped three Samsung Smart TV
-apps, ML services on genetic algorithms, and 20+ production AWS Lambdas.
+Go/Node API to the Terraform that ships it. Across **UDT/Havrion**, **Omnix IA**, and **Xpectrum** I
+shipped three Samsung Smart TV apps, ML services on genetic algorithms, and 20+ production AWS Lambdas.
 
 - 🔭 Building a real **Digital Signage Platform** for restaurants in Barranquilla (see below)
 - 🌱 Deep in **AI agents** — LangChain / LangGraph / RAG
