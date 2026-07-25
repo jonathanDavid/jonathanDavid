@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 56" font-family="'Fira Code', 'Cascadia Code', Consolas, monospace" font-size="22" font-weight="600" text-anchor="middle">
+  <!-- Fade rotator: no clipping, center-anchored — text can never be cut off,
+       whatever monospace GitHub falls back to. -->
+  <text x="380" y="36" fill="#F59E0B">
+    <tspan fill="#64748B">&gt; </tspan>Senior Full-Stack &amp; Cloud Engineer<tspan fill="#F59E0B"> ▌</tspan>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.30;0.34;0.99;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+  <text x="380" y="36" fill="#A78BFA">
+    <tspan fill="#64748B">&gt; </tspan>React · Angular · Node · Go · Python<tspan fill="#A78BFA"> ▌</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.31;0.35;0.63;0.67;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+  <text x="380" y="36" fill="#38BDF8">
+    <tspan fill="#64748B">&gt; </tspan>AWS · Azure · Kubernetes · Terraform<tspan fill="#38BDF8"> ▌</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.64;0.68;0.99;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+</svg>

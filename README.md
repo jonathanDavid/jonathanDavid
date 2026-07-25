@@ -3,9 +3,9 @@
   <img src="./assets/banner.svg" alt="Jonathan Ilias — Senior Full Stack & Cloud Engineer" width="100%"/>
 </p>
 
-<!-- ===== Animated typing tagline (committed SVG) ===== -->
+<!-- ===== Animated tagline (committed SVG — fade rotator, never clips) ===== -->
 <p align="center">
-  <img src="./assets/typing.svg" alt="Senior Full-Stack & Cloud Engineer" width="700"/>
+  <img src="./assets/tagline.svg" alt="Senior Full-Stack & Cloud Engineer · React · Angular · Node · Go · AWS · Azure · Kubernetes · Terraform" width="680"/>
 </p>
 
 <!-- ===== Social badges (shields.io — reliable) ===== -->
