@@ -8,12 +8,17 @@
   <img src="./assets/typewriter.svg" alt="Senior Full-Stack & Cloud Engineer · React · Angular · Node · Go · AWS · Azure · Kubernetes · Terraform" width="700"/>
 </p>
 
-<!-- ===== Social badges (shields.io — reliable) ===== -->
+<!-- ===== Portfolio + social badges (shields.io — reliable) ===== -->
 <p align="center">
+  <a href="https://jonathandavid.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-0EA5A4?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/jonathan-ilias"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jdavid.ilias@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Barranquilla-Colombia-FCD116?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location"/>
   <img src="https://komarev.com/ghpvc/?username=jonathanDavid&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="views"/>
+</p>
+
+<p align="center">
+  <b>🔗 <a href="https://jonathandavid.github.io/My-Portfolio/">jonathandavid.github.io/My-Portfolio</a></b>
 </p>
 
 ---
