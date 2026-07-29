@@ -95,7 +95,7 @@ shipped three Samsung Smart TV apps, ML services on genetic algorithms, and 20+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanDavid&hide_border=true&theme=tokyonight&stroke=A78BFA&fire=F59E0B&ring=F59E0B" alt="contribution streak"/>
 </p>
 
-<p align="center"><i>🛠️ Landing soon: a Go/WebSocket live dashboard, a Neo4j route-graph app, and an AI road-trip planner agent.</i></p>
+<p align="center"><i>🛠️ Landing soon: a Go L7 load balancer with a live traffic dashboard, and an AI road-trip planner agent.</i></p>
 
 <!-- ===== Animated wave footer (committed SVG) ===== -->
 <p align="center">
