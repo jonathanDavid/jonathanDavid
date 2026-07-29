@@ -29,7 +29,7 @@ I build scalable SaaS and cloud-native platforms **end to end** — from a drag-
 Go/Node API to the Terraform that ships it. Across **UDT/Havrion**, **Omnix IA**, and **Xpectrum** I
 shipped three Samsung Smart TV apps, ML services on genetic algorithms, and 20+ production AWS Lambdas.
 
-- 🔭 Building a real **Digital Signage Platform** for restaurants in Barranquilla (see below)
+- 🔭 Built a real **Digital Signage Platform** for restaurants in Barranquilla (in the list below)
 - 🌱 Deep in **AI agents** — LangChain / LangGraph / RAG
 - ⚡ Rare stuff I actually ship: **Samsung Tizen/SSSP**, real-time **WebSockets**, **Neo4j**, multi-cloud **IaC**
 - 📫 Reach me: **jdavid.ilias@gmail.com**
