@@ -42,32 +42,9 @@ shipped three Samsung Smart TV apps, ML services on genetic algorithms, and 20+ 
 |---|---|---|
 | 🗺️ **Colombia Conflict & Security Atlas** | 1947–2026 · 9 real data layers · timeline scrubber · per-100k | [▶ Live](https://jonathandavid.github.io/colombia-conflict-atlas/) · [Case study](https://jonathandavid.github.io/My-Portfolio/projects/colombia-conflict-atlas) · [Repo](https://github.com/jonathanDavid/colombia-conflict-atlas) |
 | 🎨 **Art Pomodoro** | a masterpiece reveals itself as you focus · Met & AIC open APIs | [▶ Live](https://jonathandavid.github.io/art-pomodoro/) · [Case study](https://jonathandavid.github.io/My-Portfolio/projects/art-pomodoro) · [Repo](https://github.com/jonathanDavid/art-pomodoro) |
-| 📺 **Digital Signage Platform** | web editor → live Samsung Smart TV menu boards · 4 surfaces | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/digital-signage) · repos below |
+| 📺 **Digital Signage Platform** | a restaurant owner edits a menu in a web editor and it renders **live on Samsung Smart TVs** — one product, three surfaces + infra, end to end | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/digital-signage) · [signage-web](https://github.com/jonathanDavid/signage-web) (React 18 · Vite · dnd-kit) · [signage-api](https://github.com/jonathanDavid/signage-api) (NestJS · Prisma · PostgreSQL) · [signage-tv](https://github.com/jonathanDavid/signage-tv) (Tizen/SSSP · esbuild) · [signage-infra](https://github.com/jonathanDavid/signage-infra) (Terraform · ECS · RDS · K8s) |
 | ☁️ **Retail Serverless Backend** | API Gateway → Lambda → SQS → DynamoDB → SNS, event-driven | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/retail-serverless) · [Repo](https://github.com/jonathanDavid/retail-serverless-web) |
 | 🧬 **Genetic-Algorithm Visualizer** | a numpy GA streamed generation-by-generation to a 60fps canvas | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/ga-allocation-services) · [Repo](https://github.com/jonathanDavid/genetic-visualizer-web) |
-
----
-
-### 🚀 Featured project — Digital Signage Platform
-
-> A restaurant owner edits a menu in a web editor and it renders **live on Samsung Smart TVs** as a
-> digital menu board. One product, three surfaces + infra — the rare skills, shown working end to end.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Samsung%20Tizen-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</p>
-
-| Repo | Surface | Stack |
-|---|---|---|
-| 🎨 [signage-web](https://github.com/jonathanDavid/signage-web) | Drag-and-drop menu editor | React 18 · Vite · dnd-kit |
-| ⚙️ [signage-api](https://github.com/jonathanDavid/signage-api) | REST + WebSocket API | NestJS · Prisma · PostgreSQL |
-| 📺 [signage-tv](https://github.com/jonathanDavid/signage-tv) | Samsung Tizen / SSSP player | Vanilla TS · esbuild (ES2017) |
-| ☁️ [signage-infra](https://github.com/jonathanDavid/signage-infra) | Infrastructure | Terraform · ECS · RDS · K8s |
 
 ---
 
