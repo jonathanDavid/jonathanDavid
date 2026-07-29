@@ -36,62 +36,19 @@ shipped three Samsung Smart TV apps, ML services on genetic algorithms, and 20+ 
 
 ---
 
-### 🖼️ Project showcase — live demos
+### 📚 Projects & case studies
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://jonathandavid.github.io/colombia-conflict-atlas/">
-        <img src="./assets/showcase/atlas.png" alt="Colombia Conflict & Security Atlas — timeline scrubbed to the 2002 conflict peak, CNMH choropleth across 1,122 municipalities" width="100%"/>
-      </a>
-      <br/><strong>🗺️ Colombia Conflict &amp; Security Atlas</strong><br/>
-      <sub>1947–2026 · 9 real data layers · timeline scrubber · per-100k</sub><br/>
-      <a href="https://jonathandavid.github.io/colombia-conflict-atlas/"><strong>▶ Live demo</strong></a> ·
-      <a href="https://github.com/jonathanDavid/colombia-conflict-atlas">Repo</a> ·
-      <a href="https://jonathandavid.github.io/My-Portfolio/projects/colombia-conflict-atlas">Case study</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://jonathandavid.github.io/art-pomodoro/">
-        <img src="./assets/showcase/pomodoro.png" alt="Art Pomodoro — Hokusai's Great Wave half revealed as one connected organic shape; the brass frame is the progress bar" width="100%"/>
-      </a>
-      <br/><strong>🎨 Art Pomodoro</strong><br/>
-      <sub>a masterpiece reveals itself as you focus · Met &amp; AIC open APIs</sub><br/>
-      <a href="https://jonathandavid.github.io/art-pomodoro/"><strong>▶ Live demo</strong></a> ·
-      <a href="https://github.com/jonathanDavid/art-pomodoro">Repo</a> ·
-      <a href="https://jonathandavid.github.io/My-Portfolio/projects/art-pomodoro">Case study</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://jonathandavid.github.io/My-Portfolio/projects/ga-allocation-services">
-        <img src="./assets/showcase/genetic.png" alt="Genetic-Algorithm Visualizer — live fitness chart, store map and Random vs Greedy vs GA comparison at 60fps" width="100%"/>
-      </a>
-      <br/><strong>🧬 Genetic-Algorithm Visualizer</strong><br/>
-      <sub>a numpy GA streamed generation-by-generation to a 60fps canvas</sub><br/>
-      <a href="https://github.com/jonathanDavid/genetic-visualizer-web">Repo</a> ·
-      <a href="https://jonathandavid.github.io/My-Portfolio/projects/ga-allocation-services">Case study</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://jonathandavid.github.io/My-Portfolio/projects/retail-serverless">
-        <img src="./assets/showcase/retail.png" alt="Retail Serverless Backend — live order dashboard over an event-driven AWS pipeline" width="100%"/>
-      </a>
-      <br/><strong>☁️ Retail Serverless Backend</strong><br/>
-      <sub>API Gateway → Lambda → SQS → DynamoDB → SNS, event-driven</sub><br/>
-      <a href="https://github.com/jonathanDavid/retail-serverless-web">Repo</a> ·
-      <a href="https://jonathandavid.github.io/My-Portfolio/projects/retail-serverless">Case study</a>
-    </td>
-  </tr>
-</table>
+| Project | | Links |
+|---|---|---|
+| 🗺️ **Colombia Conflict & Security Atlas** | 1947–2026 · 9 real data layers · timeline scrubber · per-100k | [▶ Live](https://jonathandavid.github.io/colombia-conflict-atlas/) · [Case study](https://jonathandavid.github.io/My-Portfolio/projects/colombia-conflict-atlas) · [Repo](https://github.com/jonathanDavid/colombia-conflict-atlas) |
+| 🎨 **Art Pomodoro** | a masterpiece reveals itself as you focus · Met & AIC open APIs | [▶ Live](https://jonathandavid.github.io/art-pomodoro/) · [Case study](https://jonathandavid.github.io/My-Portfolio/projects/art-pomodoro) · [Repo](https://github.com/jonathanDavid/art-pomodoro) |
+| 📺 **Digital Signage Platform** | web editor → live Samsung Smart TV menu boards · 4 surfaces | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/digital-signage) · repos below |
+| ☁️ **Retail Serverless Backend** | API Gateway → Lambda → SQS → DynamoDB → SNS, event-driven | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/retail-serverless) · [Repo](https://github.com/jonathanDavid/retail-serverless-web) |
+| 🧬 **Genetic-Algorithm Visualizer** | a numpy GA streamed generation-by-generation to a 60fps canvas | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/ga-allocation-services) · [Repo](https://github.com/jonathanDavid/genetic-visualizer-web) |
 
 ---
 
 ### 🚀 Featured project — Digital Signage Platform
-
-<p align="center">
-  <a href="https://jonathandavid.github.io/My-Portfolio/projects/digital-signage">
-    <img src="./assets/showcase/signage.png" alt="Digital Signage Platform — the drag-and-drop menu editor that renders live on Samsung Smart TVs" width="90%"/>
-  </a>
-</p>
 
 > A restaurant owner edits a menu in a web editor and it renders **live on Samsung Smart TVs** as a
 > digital menu board. One product, three surfaces + infra — the rare skills, shown working end to end.
