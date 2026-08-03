@@ -49,6 +49,8 @@ shipped three Samsung Smart TV apps, ML services on genetic algorithms, and 20+ 
 | ☁️ **Retail Serverless Backend** | API Gateway → Lambda → SQS → DynamoDB → SNS, event-driven | [▶ Live](https://jonathandavid.github.io/retail-serverless-web/) · [Case study](https://jonathandavid.github.io/My-Portfolio/projects/retail-serverless) · [Repo](https://github.com/jonathanDavid/retail-serverless-web) |
 | 📱 **TheCloset — 2019 app, revived** | my oldest side project: Expo SDK 30→57 in one jump, local-first rebuild, dark-first redesign · before/after in the repo | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/theclo-set) · [Repo](https://github.com/jonathanDavid/Theclo-set) |
 | 💣 **Bomberman — Java, no engine** | university game, hand-rolled everything: render layers, sprites, WAV audio, graph-based enemy pathfinding · code frozen as a time capsule | [Case study](https://jonathandavid.github.io/My-Portfolio/projects/bomberman) · [Repo](https://github.com/jonathanDavid/Bomberman) |
+| ⚡ **goflow — Go L7 Load Balancer** | pure stdlib, zero dependencies: health checks with hysteresis, safe retries, live SSE traffic dashboard · `go run . demo` shows ejection & recovery live | [Repo](https://github.com/jonathanDavid/goflow) |
+| 🍃 **Mongo Showdown** | Mongoose vs the native driver — one contract, fairness-tested, measured benchmarks + the verbatim code side by side | [▶ Live](https://jonathandavid.github.io/mongo-showdown-web/) · [api](https://github.com/jonathanDavid/mongo-showdown-api) · [web](https://github.com/jonathanDavid/mongo-showdown-web) |
 | 🧬 **Genetic-Algorithm Visualizer** | a numpy GA streamed generation-by-generation to a 60fps canvas | [▶ Live](https://jonathandavid.github.io/genetic-visualizer-web/) · [Case study](https://jonathandavid.github.io/My-Portfolio/projects/ga-allocation-services) · [Repo](https://github.com/jonathanDavid/genetic-visualizer-web) |
 
 ---
@@ -99,7 +101,7 @@ shipped three Samsung Smart TV apps, ML services on genetic algorithms, and 20+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanDavid&hide_border=true&theme=tokyonight&stroke=A78BFA&fire=F59E0B&ring=F59E0B" alt="contribution streak"/>
 </p>
 
-<p align="center"><i>🛠️ Landing soon: a Go L7 load balancer with a live traffic dashboard, and an AI road-trip planner agent.</i></p>
+<p align="center"><i>🛠️ Landing soon: an AI road-trip planner agent.</i></p>
 
 <!-- ===== Animated wave footer (committed SVG) ===== -->
 <p align="center">
